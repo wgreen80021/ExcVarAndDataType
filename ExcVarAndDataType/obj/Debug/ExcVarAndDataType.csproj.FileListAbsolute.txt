@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\ExcVarAndDataType\ExcVarAndDataType\bin\Debug\ExcVarAndDataType.exe.config
+C:\Users\Wendy\source\repos\ExcVarAndDataType\ExcVarAndDataType\bin\Debug\ExcVarAndDataType.exe
+C:\Users\Wendy\source\repos\ExcVarAndDataType\ExcVarAndDataType\bin\Debug\ExcVarAndDataType.pdb
+C:\Users\Wendy\source\repos\ExcVarAndDataType\ExcVarAndDataType\obj\Debug\ExcVarAndDataType.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\ExcVarAndDataType\ExcVarAndDataType\obj\Debug\ExcVarAndDataType.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\ExcVarAndDataType\ExcVarAndDataType\obj\Debug\ExcVarAndDataType.exe
+C:\Users\Wendy\source\repos\ExcVarAndDataType\ExcVarAndDataType\obj\Debug\ExcVarAndDataType.pdb
